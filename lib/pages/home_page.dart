@@ -28,7 +28,7 @@ class HomePage extends StatelessWidget {
             Icons.menu,
           ),
           title: const Text(
-            "FilmKu",
+            "Movie",
             style: TextStyle(
               fontWeight: FontWeight.bold,
             ),
